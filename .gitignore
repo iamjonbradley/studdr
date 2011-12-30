@@ -1,0 +1,9 @@
+app/tmp/images/*
+app/tmp/cache/cake_*
+app/tmp/cache/models/cake_*
+app/tmp/cache/persistent/cake_*
+app/tmp/cache/views/cake_*
+app/tmp/images/*.jpg
+app/tmp/logs/*.log
+app/webroot/files/images/*
+app/webroot/files/users/*
